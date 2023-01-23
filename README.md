@@ -1,3 +1,3 @@
 # CV
 
-https://ain-odin.github.io/CV/cv/
+https://ain-odin.github.io/CV/
