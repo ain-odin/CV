@@ -1,2 +1,2 @@
-# CV
-https://ain-odin.github.io/cv/
+# My CV:
+https://ain-odin.github.io/CV/
